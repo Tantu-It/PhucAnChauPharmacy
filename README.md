@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-success">
   <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
+<img width="439" height="184" alt="image" src="https://github.com/user-attachments/assets/1275199d-4508-4c35-88c5-8688702dffb3" />
 
 ---
 
