@@ -43,14 +43,23 @@ It allows users to browse, search, and purchase pharmaceutical products while en
 ---
 
 ## 🖼️ Screenshots
+
 homepage
+
 ![Home](./screenshorts/home.png)
+
 productpage
+
 ![Product](./screenshorts/product.png)
+
 cartpage
+
 ![Cart](./screenshorts/cart.png)
+
 adminpage
+
 ![Admin](./screenshorts/admin.png)
+
 ---
 
 ## 🏗️ Tech Stack
