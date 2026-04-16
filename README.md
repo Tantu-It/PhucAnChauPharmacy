@@ -131,14 +131,7 @@ http://localhost/PhucAnChauPharmacy
 
 ---
 
-## 👨‍💻 Authors
 
-* Huỳnh Phước Trọng
-* Nguyễn Thanh Vương
-* Nguyễn Tấn Tú
-* Trần Thúy Vi
-
----
 
 ## 📌 How to Contribute
 
