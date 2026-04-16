@@ -44,10 +44,8 @@ It allows users to browse, search, and purchase pharmaceutical products while en
 
 ## 🖼️ Screenshots
 
-> 📌 *Add your images here (very important for recruiters)*
-
 ```md
-![Home](screenshorts/home.png)
+![Home](./screenshorts/home.png)
 ![Product](screenshorts/product.png)
 ![Cart](screenshorts/cart.png)
 ![Admin](screenshorts/admin.png)
