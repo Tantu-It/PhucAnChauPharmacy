@@ -7,15 +7,9 @@
   <img src="https://img.shields.io/badge/Status-Completed-success">
   <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
-<img width="439" height="184" alt="image" src="https://github.com/user-attachments/assets/1275199d-4508-4c35-88c5-8688702dffb3" />
 
 ---
 
-## 🚀 Live Demo
-
-👉 http://your-demo-link.infinityfreeapp.com
-
----
 
 ## 📖 Overview
 
@@ -110,27 +104,6 @@ git clone https://github.com/Tantu-It/PhucAnChauPharmacy.git
 ```
 http://localhost/PhucAnChauPharmacy
 ```
-
----
-
-## 🔥 Highlights
-
-* 💡 Clean and user-friendly UI
-* ⚡ Real-time communication system
-* 📊 Admin analytics dashboard
-* 🛒 Dynamic shopping cart
-* 📧 Automated email system
-
----
-
-## 📈 Future Improvements
-
-* 💳 Integrate real payment (MoMo, VNPay)
-* 📍 Multi-branch system
-* 📦 Real-time order tracking
-* 🔐 Security optimization (JWT, validation)
-
----
 
 
 
