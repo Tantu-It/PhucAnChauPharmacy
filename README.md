@@ -44,19 +44,19 @@ It allows users to browse, search, and purchase pharmaceutical products while en
 
 ## 🖼️ Screenshots
 
-homepage
+home page
 
 ![Home](./screenshorts/home.png)
 
-productpage
+product page
 
 ![Product](./screenshorts/product.png)
 
-cartpage
+cart page
 
 ![Cart](./screenshorts/cart.png)
 
-adminpage
+admin page
 
 ![Admin](./screenshorts/admin.png)
 
