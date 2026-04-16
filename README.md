@@ -47,10 +47,10 @@ It allows users to browse, search, and purchase pharmaceutical products while en
 > 📌 *Add your images here (very important for recruiters)*
 
 ```md
-![Home](./screenshots/home.png)
-![Product](./screenshots/product.png)
-![Cart](./screenshots/cart.png)
-![Admin](./screenshots/admin.png)
+![Home](screenshots/home.png)
+![Product](screenshots/product.png)
+![Cart](screenshots/cart.png)
+![Admin](screenshots/admin.png)
 ```
 
 ---
