@@ -1,0 +1,40 @@
+.thank-you-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.thank-you-container h2 {
+    text-align: center;
+    color: #007bff;
+}
+
+.thank-you-container h3 {
+    margin-top: 20px;
+}
+
+.thank-you-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.thank-you-container ul li {
+    margin-bottom: 10px;
+}
+
+.thank-you-container a {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.thank-you-container a:hover {
+    background-color: #0056b3;
+}
